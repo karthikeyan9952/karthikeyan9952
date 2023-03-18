@@ -12,5 +12,4 @@
 </a>
 
 <br />
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karthikeyan9952&show_icons=true&theme=gotham" alt="karthikeyan9952" />
+<img src="https://github-readme-stats.vercel.app/api?username=karthikeyan9952&show_icons=true&theme=gotham" alt="karthikeyan9952" />
