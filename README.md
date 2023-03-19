@@ -16,6 +16,7 @@ I'm Karthikeyan, a 21 years old flutter and indie game developer from India.
 - 🌐 Laravel, PHP
 - 💽 MySQL
 - 🖌️ Figma, Adobe Illustrator, Photoshop
+- 🧸 Blender
 
 
 ## Contact
