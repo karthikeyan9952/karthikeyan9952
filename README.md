@@ -22,15 +22,15 @@ I'm Karthikeyan, a 21 years old flutter and indie game developer from India.
 ## My Games
 
  <a href="https://play.google.com/store/apps/details?id=com.KCCreations.Gpadeventue">
-  <img alt="GP Muthu Adventures" width="92px" src="https://github.com/karthikeyan9952/GP_Muthu_Adventures/blob/main/Assets/Sprites/Icons/Icon%20192L.png" />
+  <img alt="GP Muthu Adventures" width="92px" src="https://play-lh.googleusercontent.com/DOaoPc7MbiFiOyHedoV8do_8Ahxlw5-BnmwKpdLfydcxKte4yj69gbby2WXze8nRCA4=s256" />
   </a>
 &emsp;
  <a href="https://play.google.com/store/apps/details?id=com.KCCreations.FlippyBird">
-  <img alt="Flippy Bird - Flying bird" width="92px" src="https://github.com/karthikeyan9952/Flippy_Bird/blob/main/Assets/Sprites/Icon/Icon-2.jpg" />
+  <img alt="Flippy Bird - Flying bird" width="92px" src="https://play-lh.googleusercontent.com/xZkyQ8pWQMjESgZhtyURDl6dn0a2OVdpNhN0bgAC2jB8Lw-m90-hCJAgAm1whLm0OA=s256" />
   </a>
 &emsp;
  <a href="https://play.google.com/store/apps/details?id=com.KCCreations.DinoJumpingRun">
-  <img alt="Jurassic Dinosaur Jumping Run" width="92px" src="https://github.com/karthikeyan9952/Dino_Run/blob/main/Assets/Sprites/Common/Icon.jpg" />
+  <img alt="Jurassic Dinosaur Jumping Run" width="92px" src="https://play-lh.googleusercontent.com/_kl52RjD4KNJeVioAMRU1FdM6iuJ2JnmgEEMdZkfmcyipfOMTauRo4198e2YZu92cBY=s256" />
   </a>
 &emsp;
  <a href="https://play.google.com/store/apps/details?id=com.KCCreations.FlappyFish">
