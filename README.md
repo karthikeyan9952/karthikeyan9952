@@ -24,10 +24,10 @@ I'm Karthikeyan, a 21 years old flutter and indie game developer from India.
   <img align="left" alt="Karthikeyan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<a href="https://twitter.com/">
+<!-- <a href="https://twitter.com/">
   <img align="left" alt="Karthikeyan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/">
+</a> -->
+<a href="https://www.linkedin.com/in/karthikeyan-g-293157229/">
   <img align="left" alt="Karthikeyan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
