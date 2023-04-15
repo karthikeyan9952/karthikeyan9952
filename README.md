@@ -4,7 +4,7 @@ I'm Karthikeyan, a 21 years old flutter and indie game developer from India.
 
 **About me**
 
-- 💼 Senior Flutter Developer at [2KD2](https://2kd2.in)
+- 💼 Lead Flutter Developer at [2KD2](https://2kd2.in)
 
 - 📈 Published 7 Mobile games on [Google Playstore](https://play.google.com/store/apps/dev?id=4786765169926046450&hl)
 
