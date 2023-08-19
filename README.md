@@ -96,7 +96,7 @@ I'm Karthikeyan, a 21 years old flutter and indie game developer from India.
   <a href="https://www.instagram.com/kc.creations.official" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="contactkccreation@gmail.com" target="_blank">
+  <a href="mailto:contactkccreation@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/karthikeyan-g-293157229" target="_blank">
