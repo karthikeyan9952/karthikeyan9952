@@ -108,4 +108,4 @@ I'm Karthikeyan, a 21 years old flutter and indie game developer from India.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/karthikeyan9952/karthikeyan9952/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/karthikeyan9952/karthikeyan9952/blob/output/github-contribution-grid-snake.gif)
