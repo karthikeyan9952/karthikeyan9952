@@ -110,7 +110,7 @@ I'm Karthikeyan, a 21 years old flutter and indie game developer from India.
 
 <picture>
   <source
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/karthikeyan9952/karthikeyan9952/output/github-contribution-grid-snake.svg"
   />
   <img
