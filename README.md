@@ -108,4 +108,17 @@ I'm Karthikeyan, a 21 years old flutter and indie game developer from India.
 
 <br clear="both">
 
-![snake gif](https://github.com/karthikeyan9952/karthikeyan9952/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/karthikeyan9952/karthikeyan9952/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/karthikeyan9952/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/karthikeyan9952/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
