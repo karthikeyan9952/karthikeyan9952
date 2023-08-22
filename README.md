@@ -87,7 +87,7 @@ I'm Karthikeyan, a 21 years old flutter and indie game developer from India.
   <img alt="2048 Modern" width="92px" src="https://play-lh.googleusercontent.com/BrgCnZDbKsEFa2gFPp-7tfYYoXHDNuGUC5eUgOtO3_kH4RQ50KwHk9Zy8awnEHE4eaI=w240-h480" />
   </a>
 
-### Contact
+### Social
 
 <div align="left">
   <a href="https://www.youtube.com/@kccreations7568/" target="_blank">
