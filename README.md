@@ -6,7 +6,7 @@ I'm Karthikeyan, a 21 years old web, mobile fullstack and indie game developer f
 
 - 💼 Freelancer
 
-- 📈 Published 8 Mobile games on [Google Playstore](https://play.google.com/store/apps/dev?id=4786765169926046450&hl)
+- 📈 Published 7 Mobile games on [Google Playstore](https://play.google.com/store/apps/dev?id=4786765169926046450&hl)
 
 - ❤️ I love making games
 
