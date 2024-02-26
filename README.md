@@ -55,6 +55,8 @@ I'm Karthikeyan, a 21 years old web, mobile fullstack and indie game developer f
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazon web services"  />
 </div>
 
 ### My Games
