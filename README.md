@@ -63,8 +63,8 @@ I'm Karthikeyan, a 22 years old web, mobile fullstack and indie game developer f
   <img alt="GP Muthu Adventures" width="92px" src="https://play-lh.googleusercontent.com/DOaoPc7MbiFiOyHedoV8do_8Ahxlw5-BnmwKpdLfydcxKte4yj69gbby2WXze8nRCA4=s256" />
   </a>
 &emsp;
- <a href="https://play.google.com/store/apps/details?id=com.KCCreations.FlippyBird">
-  <img alt="Flippy Bird - Flying bird" width="92px" src="https://play-lh.googleusercontent.com/xZkyQ8pWQMjESgZhtyURDl6dn0a2OVdpNhN0bgAC2jB8Lw-m90-hCJAgAm1whLm0OA=s256" />
+ <a href="https://play.google.com/store/apps/details?id=com.KCCreations.imagequiz">
+  <img alt="Flippy Bird - Flying bird" width="92px" src="https://play-lh.googleusercontent.com/aJokY2DQzgQA4oatpcqpakogotWS9WkFmwPfXCfQJOHG6EeqDnhhPH1zTSyPYpLR2DI6=w240-h480-rw" />
   </a>
 &emsp;
  <a href="https://play.google.com/store/apps/details?id=com.KCCreations.DinoJumpingRun">
