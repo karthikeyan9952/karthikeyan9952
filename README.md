@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Karthikeyan, a 21 years old web, mobile fullstack and indie game developer from India.
+I'm Karthikeyan, a 22 years old web, mobile fullstack and indie game developer from India.
 
 **About me**
 
